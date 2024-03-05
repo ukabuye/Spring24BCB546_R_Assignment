@@ -21,7 +21,7 @@ In this project, we explore different aspects of data analysis using R. We cover
 
 To get started with this project, you can follow these steps:
 
-1. Clone the repository to your local machine using the following command: git clone https://xxxxxxxxxxxxxxxx
+1. Clone the repository to your local machine using the following command: `git clone https://github.com/ukabuye/Spring24BCB546_R_Assignment.git`
 2. Install the required R packages. You can use the following command in R to install packages: `install.packages (c("tidyverse", "ggplot2", "dplyr"))`
 3. Explore the code examples and tutorials provided in the repository. Each section has its own folder containing relevant code and documentation.
 
