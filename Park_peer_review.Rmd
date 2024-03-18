@@ -1,0 +1,33 @@
+---
+title: "Park_peer_review"
+author: "Tae-Chun Park"
+date: "2024-03-18"
+output: html_document
+---
+
+```{r}
+Peer review of R assignment
+
+1. I tried knit Usamah's code
+  - Unfortunately, I got an error with line 52 - 55 saying "cannot open the connection"
+  - So, to complete the peer review, I deleted line 52 - 55, then the code worked!
+
+2. Data inspection
+  - I ran his code for the data inspection. It looked good to me. He went through the type, size, dimensions, structures of each file
+
+3. Data wrangling
+  - I like his workflow of code. The code seems worked very well.
+  - He did very well to create two files of maize and teosinte respectively with generating chromosome 1 to 10 automatically.
+
+4. Data visualization
+  - He successfully made graphs to see distrubition and diversity of SNPs per chromosome
+  - The figures look great!
+  - Lastly, his own visulization which is the density variation of SNPs associated with homozygous A was good.
+
+5. Summary
+  - In my opinion, his code worked well. And the overall structure is good. I think he understand his job for the assignment and code in R.
+    Great job!
+
+```
+
+
